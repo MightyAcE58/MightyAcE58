@@ -12,12 +12,17 @@ I am an aspiring IT professional currently pursuing a Bachelor of Computer Appli
   S K Somaiya Vidyavihar College of Arts Science & Commerce (2023)
 
 ## Skills
-- **Programming Languages:** Node.js, Python
-- **Web Frameworks:** Express.js
-- **Cloud Services:** AWS, Google Cloud
-- **Containerization:** Docker
-- **Version Control:** Git, GitHub
-- **Soft Skills:** Team Player, Leadership
+
+| Technology         | Icon                           |
+|--------------------|--------------------------------|
+| Node.js            | ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) |
+| Express.js         | ![Express.js](https://expressjs.com/images/express-facebook-share.png) |
+| Python             | ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png) |
+| AWS                | ![AWS](https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png) |
+| Google Cloud       | ![Google Cloud](https://cloud.google.com/images/social-icon-google-cloud-1200-630.png) |
+| Docker             | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png) |
+| Git                | ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png) |
+| GitHub             | ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) |
 
 ## Certifications
 - AWS Cloud Technical Essentials
