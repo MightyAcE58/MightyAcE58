@@ -15,14 +15,14 @@ I am an aspiring IT professional currently pursuing a Bachelor of Computer Appli
 
 | Technology         | Icon                           |
 |--------------------|--------------------------------|
-| Node.js            | ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) |
-| Express.js         | ![Express.js](https://expressjs.com/images/express-facebook-share.png) |
-| Python             | ![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png) |
-| AWS                | ![AWS](https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png) |
-| Google Cloud       | ![Google Cloud](https://cloud.google.com/images/social-icon-google-cloud-1200-630.png) |
-| Docker             | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png) |
-| Git                | ![Git](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png) |
-| GitHub             | ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) |
+| Node.js            | <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Node.js" width="30"/> |
+| Express.js         | <img src="https://cdn-icons-png.flaticon.com/512/919/919848.png" alt="Express.js" width="30"/> |
+| Python             | <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="Python" width="30"/> |
+| AWS                | <img src="https://cdn-icons-png.flaticon.com/512/919/919846.png" alt="AWS" width="30"/> |
+| Google Cloud       | <img src="https://cdn-icons-png.flaticon.com/512/919/919849.png" alt="Google Cloud" width="30"/> |
+| Docker             | <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="Docker" width="30"/> |
+| Git                | <img src="https://cdn-icons-png.flaticon.com/512/919/919855.png" alt="Git" width="30"/> |
+| GitHub             | <img src="https://cdn-icons-png.flaticon.com/512/919/919856.png" alt="GitHub" width="30"/> |
 
 ## Certifications
 - AWS Cloud Technical Essentials
@@ -45,6 +45,9 @@ I am an aspiring IT professional currently pursuing a Bachelor of Computer Appli
 - Collaborated with stakeholders to identify key focus areas, partnering with HDFC Life on a startup program, securing ₹8 lakhs+ for Riidl, and creating investment opportunities for 40+ startups.
 - Established partnerships between Riidl, HDFC Bank, and other organizations to enhance the effectiveness of CSR and startup initiatives.
 - Engaged employees and community members in CSR activities, fostering a strong sense of social responsibility and creating potential investment avenues for startups.
+
+## Contact
+Feel free to reach out to me via [LinkedIn](your-linkedin-profile) or [Email](your-email@example.com). I'm always open to new opportunities and collaborations!
 
 ## Contact
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/vinaytilada/) or [Email](vinaysinghtilada@gmail.com). I'm always open to new opportunities and collaborations!
