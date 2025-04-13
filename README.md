@@ -1,56 +1,66 @@
-# Vinay Singh Tilada
+# 👋 Vinay Singh Tilada
 
-## About Me
-I am an aspiring IT professional currently pursuing a Bachelor of Computer Application (BCA) at SK Somaiya College, specializing in Computer Networking, Computing, Embedded Systems, and IoT. I am enthusiastic about leveraging my coding skills and cloud system knowledge to make a positive impact in the IT sector. I actively engage in challenging projects and seek opportunities for growth and collaboration.
+## 🚀 About Me  
+Aspiring DevOps & Cloud Engineer with hands-on experience in AWS, Azure, Docker, and CI/CD pipelines. Currently pursuing a BCA at SK Somaiya College with a focus on Embedded Systems, IoT, and Cloud Computing. I enjoy building automated, scalable infrastructure and exploring new ways to simplify developer workflows.
 
-## Education
-- **Bachelor of Computer Application (BCA)**  
-  SK Somaiya Vidyavihar University (2026)  
-  Minor in Embedded Systems and IoT
+---
 
-- **High School**  
-  S K Somaiya Vidyavihar College of Arts Science & Commerce (2023)
+## 🎓 Education  
+**Bachelor of Computer Application (BCA)**  
+SK Somaiya Vidyavihar University | *Expected 2026*  
+*Minor in Embedded Systems and IoT*
 
-## Skills
+**High School (HSC)**  
+S K Somaiya Vidyavihar College | *2023*
 
-| Technology         | Icon                           |
-|--------------------|--------------------------------|
-| Node.js            | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30"/> |
-| Express.js         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30"/> |
-| Python             | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> |
-| AWS                | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30"/> |
-| Google Cloud       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="30"/> |
-| Docker             | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/> |
-| Git                | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/> |
-| GitHub             | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30"/> |
+---
 
-## Certifications
-- AWS Cloud Technical Essentials
-- Migrating to the AWS Cloud
-- Google Cloud Fundamentals: Core Infrastructure
-- The Bits and Bytes of Computer Networking
-- System Administration and IT Infrastructure Services
+## 🛠️ Tech Stack
 
-## Experience
+| Technology     | Icon |
+|----------------|------|
+| Node.js        | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) |
+| Express.js     | ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) |
+| Python         | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) |
+| AWS            | ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) |
+| Google Cloud   | ![GCP](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg) |
+| Docker         | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) |
+| Git            | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) |
+| GitHub         | ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) |
 
-### Software Development Engineer - OPM Corporation  
-*Aug 2024 - Present*
-- Led a team of 5 developers in building and deploying web applications using Node.js and Express.js, enhancing backend functionality for real-time projects.
-- Configured and managed AWS services, including EC2 and S3 for hosting, and Route 53 for essential DNS setup, ensuring seamless deployment and operations.
-- Implemented CDN, DNS, and email services, utilizing AWS CloudFront for content delivery and configuring email services on a specific domain to improve project communication infrastructure.
+---
 
-### CSR Executive - Riidl  
-*Jan 2024 - Aug 2024*
-- Developed and managed CSR programs, aligning objectives, activities, and timelines with community needs to promote social responsibility.
-- Collaborated with stakeholders to identify key focus areas, partnering with HDFC Life on a startup program, securing ₹8 lakhs+ for Riidl, and creating investment opportunities for 40+ startups.
-- Established partnerships between Riidl, HDFC Bank, and other organizations to enhance the effectiveness of CSR and startup initiatives.
-- Engaged employees and community members in CSR activities, fostering a strong sense of social responsibility and creating potential investment avenues for startups.
+## 📜 Certifications
+- ✅ AWS Cloud Technical Essentials
+- ✅ Migrating to the AWS Cloud
+- ✅ Google Cloud Fundamentals: Core Infrastructure
+- ✅ The Bits and Bytes of Computer Networking (Google)
+- ✅ System Administration and IT Infrastructure Services
 
-## Contact
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/vinaytilada/) or [Email](vinaysinghtilada@gmail.com). I'm always open to new opportunities and collaborations!
+---
 
+## 💼 Experience
 
-<!---
-MightyAcE58/MightyAcE58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🖥️ Software Development Engineer | **OPM Corporation**  
+*Aug 2024 – Present*  
+- Led a team of 5 to build and deploy Node.js apps with Express.js and GitHub Actions.
+- Configured AWS EC2, S3, and Route 53 for hosting, DNS, and storage.
+- Set up CDN and email services via AWS and domain registrar for full-stack deployment.
+- Used GitHub Actions for continuous deployment.
+
+### 🌱 CSR Executive | **Riidl**  
+*Jan 2024 – Aug 2024*  
+- Coordinated with HDFC Life to secure ₹8L+ in funding for early-stage startups.
+- Facilitated partnerships and executed CSR programs to benefit 40+ startups.
+- Managed stakeholder relations and community engagement initiatives.
+
+---
+
+## 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinaytilada/)
+- 📬 [vinaysinghtilada@gmail.com](mailto:vinaysinghtilada@gmail.com)
+
+> Always open to collaboration, cloud projects, internships, or full-time DevOps opportunities!
+
+---
