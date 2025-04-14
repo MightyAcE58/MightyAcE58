@@ -29,6 +29,15 @@ I’m an aspiring **DevOps & Cloud Engineer** with hands-on experience in **AWS*
 | **GitHub**     | ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) |
 
 ---
+## ☁️ DevOps & Cloud Skills
+- ☁️ AWS (EC2, S3, Route 53, Amplify)
+- 🌀 Azure
+- 🐳 Docker & Containerization
+- 🔁 GitHub Actions for CI/CD
+- 🧩 REST APIs with Express.js
+- 🧠 Monitoring & Automation (basic)
+
+---
 
 ## 📜 Certifications
 - ✅ **AWS Cloud Technical Essentials**
