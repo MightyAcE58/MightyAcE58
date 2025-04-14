@@ -32,6 +32,10 @@ I’m an aspiring **DevOps & Cloud Engineer** with hands-on experience in **AWS*
 ## ☁️ DevOps & Cloud Skills
 - ☁️ AWS (EC2, S3, Route 53, Amplify)
 - 🌀 Azure
+- 🌐 Cloudflare (DNS, CDN, SSL)
+- 🐧 Linux (Debian 12 – Daily Driver)
+- 💻 Shell Scripting (Basic Automation)
+- 📦 Nginx (Reverse Proxy, Load Balancing)
 - 🐳 Docker & Containerization
 - 🔁 GitHub Actions for CI/CD
 - 🧩 REST APIs with Express.js
