@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3578,100:ff9900&height=220&section=header&text=Vinay%20Singh%20Tilada&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer%20in%20the%20making&descAlignY=58&descSize=20" alt="Vinay Singh Tilada banner" />
+<a href="https://github.com/MightyAcE58">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=32&duration=5500&pause=800&color=00FF41&center=true&vCenter=true&width=720&cursorColor=00FF41&lines=%3E+Vinay+Singh+Tilada" alt="Vinay Singh Tilada" />
+</a>
 
 <a href="https://github.com/MightyAcE58">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF9900&center=true&vCenter=true&width=720&lines=Don't+just+deploy+apps.;Automate+them.+Scale+them.+Secure+them.;AWS+%7C+Azure+%7C+Docker+%7C+CI%2FCD" alt="Typing animation" />
